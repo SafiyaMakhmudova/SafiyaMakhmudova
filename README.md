@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SafiyaMakhmudova
 - 👀 I’m interested in Books
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++, C
 - 📫 How to reach me maxmudovarruxsora@gmail.com
 
 <!---
